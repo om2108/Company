@@ -9,7 +9,7 @@ function Footer() {
                     <div className="footer-section">
                         <h2>About Us</h2>
                         <p>
-                            XYZ College is dedicated to academic excellence, innovation, and community development.
+                            Om College is dedicated to academic excellence, innovation, and community development.
                         </p>
                     </div>
                     <div className="footer-section">
@@ -32,14 +32,14 @@ function Footer() {
                     </div>
                     <div className="footer-section">
                         <h2>Contact Us</h2>
-                        <p>XYZ College<br />123 College Road<br />City, State - 123456</p>
-                        <p>Email: info@xyzcollege.edu</p>
+                        <p>Om College<br />123 College Road<br />City, State - 123456</p>
+                        <p>Email: info@omcollege.edu</p>
                         <p>Phone: +91 12345 67890</p>
                     </div>
                 </div>
 
                 <div className="footer-bottom">
-                    © 2025 XYZ College. All rights reserved.
+                    © 2025 Om College. All rights reserved.
                 </div>
             </footer>
         </>
